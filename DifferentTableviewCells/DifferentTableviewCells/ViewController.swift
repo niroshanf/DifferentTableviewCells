@@ -114,9 +114,9 @@ extension ViewController {
     
     private func generateDataSource(data: APIInfo) {
         
-        guard let fullComponents = data.components else { return }
+        guard let fullComponentsFromAPI = data.components else { return }
         
-        self.dataSource = FeedDataSource(components: fullComponents)
+        self.dataSource = FeedDataSource(components: fullComponentsFromAPI)
         self.tableview.reloadData()
     }
 }
