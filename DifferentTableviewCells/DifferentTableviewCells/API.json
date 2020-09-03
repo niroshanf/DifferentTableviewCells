@@ -1,0 +1,88 @@
+{
+  "components": [
+    {
+      "componentCode": "TopImageCard",
+      "articles": [
+        {
+          "articleID": "001",
+          "title": "Game of Thrones producers to adapt Chinese sci-fi 'The Three-Body Problem' for Netflix",
+          "image": "articleImage"
+        },
+        {
+          "articleID": "002",
+          "title": "Intel has a new logo and jingle",
+          "image": "articleImage"
+        },
+        {
+          "articleID": "003",
+          "title": "Left behind because of Covid-19, a tiny dog travels 10,000 miles to rejoin her owners",
+          "image": "articleImage"
+        }
+      ],
+      "authors": []
+    },
+    {
+      "componentCode": "ThumbImageCard",
+      "articles": [
+        {
+          "articleID": "001",
+          "title": "MacKenzie Scott has become the world's richest woman",
+          "image": "articleImage"
+        },
+        {
+          "articleID": "002",
+          "title": "The Olympic distance runner who writes and stars in her own films",
+          "image": "articleImage"
+        },
+        {
+          "articleID": "003",
+          "title": "First toilet paper, then yeast. Now laptops are hard to find",
+          "image": "articleImage"
+        }
+      ],
+      "authors": []
+    },
+    {
+      "componentCode": "ScrollCard",
+      "articles": [],
+      "authors": [
+        {
+          "authorID": "001",
+          "name": "J. K. Rowling",
+          "image": "avatar"
+        },
+        {
+          "authorID": "002",
+          "name": "Sidney Sheldon",
+          "image": "avatar"
+        },
+        {
+          "authorID": "003",
+          "name": "Dr. Seuss",
+          "image": "avatar"
+        }
+      ]
+    },
+    {
+      "componentCode": "ThumbImageCard",
+      "articles": [
+        {
+          "articleID": "004",
+          "title": "MacKenzie Scott has become the world's richest woman",
+          "image": "articleImage"
+        },
+        {
+          "articleID": "005",
+          "title": "The Olympic distance runner who writes and stars in her own films",
+          "image": "articleImage"
+        },
+        {
+          "articleID": "006",
+          "title": "First toilet paper, then yeast. Now laptops are hard to find",
+          "image": "articleImage"
+        }
+      ],
+      "authors": []
+    }
+  ]
+}
